@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Tue Dec  3 11:52:25 2024
+# Process ID         : 5080
+# Current directory  : C:/Users/renat/OneDrive/Desktop/fpga labs/raw/9/q2.2/q2.2.runs/impl_1
+# Command line       : vivado.exe -log intConv.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source intConv.tcl -notrace
+# Log file           : C:/Users/renat/OneDrive/Desktop/fpga labs/raw/9/q2.2/q2.2.runs/impl_1/intConv.vdi
+# Journal file       : C:/Users/renat/OneDrive/Desktop/fpga labs/raw/9/q2.2/q2.2.runs/impl_1\vivado.jou
+# Running On         : WinLab
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 22631
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i7-1185G7 @ 3.00GHz
+# CPU Frequency      : 1805 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 34068 MB
+# Swap memory        : 5100 MB
+# Total Virtual      : 39168 MB
+# Available Virtual  : 21627 MB
+#-----------------------------------------------------------
+source intConv.tcl -notrace
